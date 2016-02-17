@@ -6,5 +6,5 @@ Includes calc.bat for Windows users, which lets Windows users simply type "calc 
 
 calc.bat must be modified by the user to correctly point to python.exe. It currently contains my own path to python.exe, but if python.exe is in your system path then I guess just changing the path to python.exe should work.
 
-Prints the result value with commas included for easy reading.
+Prints the result value with commas included for easy reading. calc.bak.py prints without the commas, if you're interested in that.
 
