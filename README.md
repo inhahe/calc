@@ -1,4 +1,4 @@
-Usage: calc <mathematical expression>
+Usage: calc &lt;mathematical-expression>
 
 The mathematical expression may include any constants or functions available in math.py.
 
