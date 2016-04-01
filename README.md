@@ -8,3 +8,4 @@ calc.bat must be modified by the user to correctly point to python.exe. It curre
 
 Prints the result value with commas included for easy reading. calc.bak.py prints without the commas, if you're interested in that.
 
+Please let me know if there's a better way to print with commas than using the if/elif/else statement I'm using for it now.
